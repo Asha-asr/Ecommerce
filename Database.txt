@@ -1,0 +1,11 @@
+database: shop
+SELECT * FROM `products`
+
+
+productId		productName	productImage	productDescription					productPrice	createdDate	updatedDate	
+1			Samsung M02	mobile-1.jpg	Samsung Galaxy M02s (Black,4GB RAM, 64GB Storage) ...	9999		2021-02-17	2021-02-19	
+2			Redmi-9		mobile-2.jpg	Redmi 9 Sky Blue, 4GB RAM, 64GB Storage			8999		2021-02-17	2021-02-19	
+3			Galaxy S-21	mobile-3.jpg	<p>Samsung Galaxy S21 Plus 5G (Phantom Violet, 8GB...	81999		2021-02-17	2021-02-19	
+4			Redmi 2		mobile-4.jpg	Panasonic Eluga i7 (2GB RAM, 16GB Storage, Finger ...	9999		2021-02-17	2021-02-19	
+5			OnePlus 8 Pro	mobile-5.jpg	OnePlus 8 Pro Glacial Green 8GB RAM+128GB Storage	54999		2021-02-17	2021-02-19	
+6			Redmi 9A	mobile-6.jpg	Redmi 9A (Nature Green, 2GB Ram, 32GB Storage) | 2...	6999		2021-02-17	2021-02-19	
